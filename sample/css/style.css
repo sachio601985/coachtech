@@ -1,0 +1,17 @@
+p {
+  font-family: "Gorditas", cursive;
+  font-size: 60px;
+}
+
+h2 {
+font-family: 'Noto Serif JP', serif;
+}
+
+body {
+  background-color:#ff0000;
+}
+.gradation__bg {
+  width: 100%;
+  height: 700px;
+  background: linear-gradient(#ff34ff, #8646ff);
+}

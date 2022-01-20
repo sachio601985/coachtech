@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #008888;
+  height: 600px;
+}
+
+.flex__child {
+  font-size: 40px;
+  color: #fff;
+  font-weight: 600;
+}
